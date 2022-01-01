@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>list of municipalities</title>
+</head>
+
+<body>
+<select name="municipality_of_birth" class="form-control">
+<option value="">بلدية الميلاد</option><option value="1185">عين الدفلى</option><option value="1186">مليانة</option><option value="1187">بومدفع</option><option value="1188">خميس مليانة</option><option value="1189">حمام ريغة</option><option value="1190">عريب</option><option value="1191">جليدة</option><option value="1192">العامرة</option><option value="1193">بوراشد</option><option value="1194">العطاف</option><option value="1195">العبادية</option><option value="1196">جندل</option><option value="1197">وادي الشرفاء</option><option value="1198">عين الاشياخ</option><option value="1199">واد الجمعة</option><option value="1200">الروينة</option><option value="1201">زدين</option><option value="1202">الحسانية</option><option value="1203">بئر ولد خليفة</option><option value="1205">طارق بن زياد</option><option value="1206">برج الأمير خالد</option><option value="1207">عين التركي</option><option value="1208">سيدي الأخضر</option><option value="1209">بن علال</option><option value="1210">عين البنيان</option><option value="1211">الحسينية</option><option value="1212">بربوش</option><option value="1213">جمعة أولاد الشيخ</option><option value="1214">المخاطرية</option><option value="1215">بطحية</option><option value="1216">تاشتة زقاغة</option><option value="1217">عين بويحيى</option><option value="1219">تبركانين</option><option value="1220">بلعاص</option><option value="1626">عين السلطان</option><option value="1627">الماين</option>
+</select>
+</body>
+</html>
