@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>list of municipalities</title>
+</head>
+
+<body>
+<select name="municipality_of_birth" class="form-control">
+<option value="">بلدية الميلاد</option>
+<option value="1375">الأغواط</option>
+<option value="1376">قصر الحيران</option>
+<option value="1377">بن ناصر بن شهرة</option>
+<option value="1378">سيدي مخلوف</option>
+<option value="1379">حاسي الدلاعة</option>
+<option value="1380">حاسي الرمل</option>
+<option value="1381">عين ماضي</option>
+<option value="1382">تاجموت</option>
+<option value="1383">الخنق</option>
+<option value="1384">قلتة سيدي سعد</option>
+<option value="1385">عين سيدي علي</option>
+<option value="1386">البيضاء</option>
+<option value="1387">بريدة</option>
+<option value="1388">الغيشة</option>
+<option value="1389">الحاج مشري</option>
+<option value="1390">سبقاق</option>
+<option value="1391">تاويالة</option>
+<option value="1392">تاجرونة</option>
+<option value="1393">أفلو</option>
+<option value="1394">العسافية</option>
+<option value="1395">وادي مرة</option>
+<option value="1396">وادي مزي</option>
+<option value="1397">الحويطة</option>
+<option value="1398">سيدي بوزيد</option>
+</select>
+  </body>
+</html>
