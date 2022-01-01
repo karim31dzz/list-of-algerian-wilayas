@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>list of municipalities of oran</title>
+</head>
+
+<body>
+<select name="municipality_of_birth" class="form-control">
+<option value="1313">سالي</option>
+<option value="1314">اقبلي</option>
+<option value="1316">أولاد أحمد تيمي</option>
+<option value="1317">بودة</option>
+<option value="1321">السبع</option>
+<option value="1328">أدرار</option>
+<option value="1329">تامست</option>
+<option value="1331">رقان</option
+><option value="1332">إن زغمير</option>
+<option value="1333">تيت</option>
+<option value="1335">تسابيت</option>
+<option value="1338">زاوية كنتة</option>
+<option value="1339">أولف</option>
+<option value="1340">تيمقتن</option>
+<option value="1341">تامنطيط</option>
+<option value="1342">فنوغيل</option>
+</select>
+  </body>
+</html>
